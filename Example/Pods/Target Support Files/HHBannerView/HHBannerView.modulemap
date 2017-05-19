@@ -1,0 +1,6 @@
+framework module HHBannerView {
+  umbrella header "HHBannerView-umbrella.h"
+
+  export *
+  module * { export * }
+}

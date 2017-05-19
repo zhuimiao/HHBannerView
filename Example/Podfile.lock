@@ -1,0 +1,22 @@
+PODS:
+  - HHBannerView (0.1.0):
+    - SDWebImage
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+
+DEPENDENCIES:
+  - HHBannerView (from `../`)
+  - SDWebImage
+
+EXTERNAL SOURCES:
+  HHBannerView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HHBannerView: 08e6c3aa04f675f2ba42b62108523040980ae702
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+
+PODFILE CHECKSUM: 3a96f13cbde73945b4a8e99a32044957a1567d17
+
+COCOAPODS: 1.2.1

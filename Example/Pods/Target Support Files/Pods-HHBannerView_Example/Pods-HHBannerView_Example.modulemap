@@ -1,0 +1,6 @@
+framework module Pods_HHBannerView_Example {
+  umbrella header "Pods-HHBannerView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
